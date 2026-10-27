@@ -1,0 +1,14 @@
+control_area,control_name,severity,exception_count,total_absolute_difference
+Data Quality,DQ-I Missing critical cost-basis fields,MEDIUM,18,
+Data Quality,DQ-J Negative cost_basis,HIGH,3,
+Transaction / Cost Basis,CB-B Realized gain/loss calculation,HIGH,4,22142.0
+Transaction / Cost Basis,CB-B Realized gain/loss calculation,MEDIUM,10,3377.36
+Transaction / Cost Basis,CB-C Adjusted gain/loss calculation,HIGH,1,1725.33
+Transaction / Cost Basis,CB-C Adjusted gain/loss calculation,MEDIUM,10,2601.38
+Tax Reporting,TR-A/TR-C 1099-B proceeds reconciliation and classification,HIGH,2,6958.14
+Tax Reporting,TR-A/TR-C 1099-B proceeds reconciliation and classification,MEDIUM,8,5300.0
+Tax Reporting,TR-B 1099-B completeness,MEDIUM,2,105879.6
+Tax Reporting,TR-B 1099-B completeness,REVIEW,123,5251150.98
+Withholding,WH-A Withholding calculation,MEDIUM,7,23.8
+Withholding,WH-B NRA withholding vs 1042-S,MEDIUM,4,20.62
+Withholding,WH-C Backup withholding on sale proceeds vs 1099-B completeness,REVIEW,9,104353.25
